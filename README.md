@@ -1,5 +1,6 @@
 # Calculator
 Here we perform operations
 
-adding<br>
+adding
+<br><br>
 substraction
