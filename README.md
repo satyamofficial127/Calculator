@@ -1,5 +1,5 @@
 # Calculator
 Here we perform operations
 
-adding
+adding<br>
 substraction
